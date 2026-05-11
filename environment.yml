@@ -1,0 +1,17 @@
+name: morphoXS
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - geopandas
+  - matplotlib
+  - rasterio
+  - numpy
+  - pandas
+  - seaborn
+  - ipykernel
+  - shapely
+  - contextily
