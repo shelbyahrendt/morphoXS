@@ -1,8 +1,8 @@
-# Channel Characterization
+# morphoXS
 
 This repository contains code to extract topography along a channel flowline (e.g. thalweg or centerline) as well as at channel-perpendicular cross-sections:
 
-![Demo](https://github.com/shelbyahrendt/morphoXS/tree/main/demo_fig.png?ref_type=heads)
+![Demo](https://github.com/shelbyahrendt/morphoXS/blob/main/demo_fig.png?raw=true)
 
 
 ## Installation
