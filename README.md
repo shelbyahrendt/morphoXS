@@ -20,6 +20,6 @@ Install with conda:
 
 ## Run Demo
 
-1. Open Jupyter Lab (your channel-transects environemnt must be activated)
+1. Open Jupyter Lab (your morphoXS environment must be activated)
 2. Select ```demo_transect_extraction.ipynb``` from the file tree to open
 
